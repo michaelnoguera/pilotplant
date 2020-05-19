@@ -1,0 +1,10 @@
+name: pilotplant
+channels:
+  - defaults
+dependencies:
+  - jupyter
+  - scipy
+  - numpy
+  - pandas
+  - matplotlib
+prefix: /home/michael/anaconda3/envs/pilotplant
